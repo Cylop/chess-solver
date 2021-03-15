@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chess-geentics:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chess_geentics_jar</output-path>
+    <root id="archive" name="chess-geentics.jar">
+      <element id="module-output" name="chess-geentics" />
+    </root>
+  </artifact>
+</component>
